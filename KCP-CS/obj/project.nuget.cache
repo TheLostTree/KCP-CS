@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "13XiqV2xh2v7NdWtfPhPV4rujZt/O5QBuWQ2u7ZzlC+aaGy0uzq6OAT4zqu1aUo1P5zYMqcxazguMrATXdfpPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Github\\KCP-CS\\KCP-CS\\KCP-CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.7\\microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

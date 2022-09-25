@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\bin\Debug\net6.0\KCP-CS.exe
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\bin\Debug\net6.0\KCP-CS.deps.json
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\bin\Debug\net6.0\KCP-CS.runtimeconfig.json
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\bin\Debug\net6.0\KCP-CS.dll
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\bin\Debug\net6.0\KCP-CS.pdb
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.AssemblyInfo.cs
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.dll
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\refint\KCP-CS.dll
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.pdb
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\KCP-CS.genruntimeconfig.cache
+C:\Users\admin\Documents\Github\KCP-CS\KCP-CS\obj\Debug\net6.0\ref\KCP-CS.dll
