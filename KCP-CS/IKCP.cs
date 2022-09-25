@@ -543,8 +543,11 @@ public class Kcp
                         AckPush(sn, ts);
                         if (Timediff(sn, rcv_nxt) >= 0)
                         {
-                            var sbuf = new byte[len];
-                            buf.CopyTo(sbuf, 0);
+                            // var sbuf = new byte[len];
+
+                            var sbuf = buf.Skip(26).Take((int)len).ToArray();
+                            Console.WriteLine(sbuf.Length + " " + (buf.Length - OVERHEAD));
+
                             hasReadData = true;
 
                             index += len;

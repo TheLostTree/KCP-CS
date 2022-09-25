@@ -39,18 +39,16 @@ public class Program
             {
                 try
                 {
-                    kcp.Update((uint)DateTime.Now.Millisecond);
+                    kcp.Update(timeNow());
                     var len = kcp.PeekSize();
                     var buf = new byte[len];
-                    
-                    Console.WriteLine(len);
                     kcp.Recv(buf);
                     Console.WriteLine($"Recieved {buf.Length} bytes");
                     Console.WriteLine(Encoding.Default.GetString(buf));
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    // Console.WriteLine(e.Message);
                     break;
                 }
             }
@@ -58,11 +56,16 @@ public class Program
         }
         catch(Exception e)
         {
-            //Console.WriteLine(e);
+            Console.WriteLine(e);
         }
 
         await Task.Yield();
         // Task.Run(BackgroundUpdate);
+    }
+
+    public static uint timeNow()
+    {
+        return Convert.ToUInt32((DateTime.UtcNow.Ticks - DateTime.UnixEpoch.Ticks)/10000000);
     }
 
 }
